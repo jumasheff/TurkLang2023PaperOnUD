@@ -1,16 +1,16 @@
+TurkLang 2023 is the Eleventh International Conference on Computer Processing of Turkic Languages, which focuses on advancements and research in computational linguistics specifically for Turkic languages. The conference serves as a vital platform for scholars to present papers that explore various computational approaches to analyzing and processing Turkic languages. The conference proceedings are published in a collection that includes a wide array of research papers, totaling 1030 pages, and is issued by the Academy of Sciences of the Republic of Tatarstan in Kazan.
+
+```
 ISSUES OF KYRGYZ SYNTACTIC ANNOTATION WITHIN THE
 UNIVERSAL DEPENDENCIES FRAMEWORK
 
-
 Aida Kasieva, Gulnura Dzhumalieva, Anna Thompson,
 Murat Jumashev, Bermet Chontaeva, Jonathan Washington
-
 
 aida.kasieva@manas.edu.kg, gulnur.jumalieva@manas.edu.kg,
 thompsonannad@gmail.com, jumasheff@gmail.com,
 bermet.chontaeva@student.uni-tuebingen.de,
 jonathan.washington@swarthmore.edu
-
 
 This paper examines key issues encountered in syntactic annotation work
 for a forthcoming Universal Dependencies (UD) corpus of Kyrgyz. It presents
@@ -36,3 +36,4 @@ within UD, while developing an improved annotated resource. It highlights issues
 where UD guidelines exhibit limitations for Turkic languages, providing analysis
 to advance understanding of best practices for Kyrgyz and related languages.
 Keywords: Kyrgyz, syntax, annotation, Universal Dependencies.
+```
